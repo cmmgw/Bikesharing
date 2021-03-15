@@ -4,7 +4,7 @@
 
 ### Resources Utilized to Complete Analysis
 * **Data Sources:** 
-[data.js](https://github.com/cmmgw/UFOs/blob/main/static/js/data.js)
+[data.csv](https://github.com/cmmgw/UFOs/blob/main/static/js/data.js)
 
 * **Languages:** Python
 * **Applications:** Tableau
