@@ -5,7 +5,7 @@
 
 ### Resources Utilized to Complete Analysis
 * **Data Sources:** 
-[Citi Bike Trip Histories](https://www.citibikenyc.com/system-data) file [201908-citibike-tripdata.zip]( https://s3.amazonaws.com/tripdata/index.html) 
+[Citi Bike Trip Histories](https://www.citibikenyc.com/system-data) (file [201908-citibike-tripdata.zip]( https://s3.amazonaws.com/tripdata/index.html))
 * **Languages:** Python
 * **Applications:** Tableau
 * **Tools:** MS Excel, Pandas, Jupyter Notebook
